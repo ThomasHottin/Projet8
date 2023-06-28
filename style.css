@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(245, 245, 245);
+    margin-inline: 20%;
+
+}
+
+
+header {
+    background-color: black;
+    color: white;
+    font-size: 100%;
+    margin-top: 10%;
+}
+
+.bodycontainer {
+    background-color: rgb(255, 255, 255);
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+.inputs{
+    display: flex;
+    justify-content: center;
+}
+
+.connexion{
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 10%;
+}
